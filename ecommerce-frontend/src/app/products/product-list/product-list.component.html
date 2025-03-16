@@ -1,0 +1,41 @@
+<h2>Product List</h2>
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+ 
+  <ng-container matColumnDef="name">
+    <th mat-header-cell *matHeaderCellDef>Name</th>
+    <td mat-cell *matCellDef="let product">{{ product.name }}</td>
+  </ng-container>
+
+  
+  <ng-container matColumnDef="price">
+    <th mat-header-cell *matHeaderCellDef>Price</th>
+    <td mat-cell *matCellDef="let product">${{ product.price }}</td>
+  </ng-container>
+
+ 
+  <ng-container matColumnDef="actions">
+    <th mat-header-cell *matHeaderCellDef>Actions</th>
+    <td mat-cell *matCellDef="let product">
+      <button mat-raised-button color="primary" (click)="addToCart(product)">Add to Cart</button>
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
+
+
+<mat-card class="cart">
+  <h3>Shopping Cart</h3>
+  <p *ngIf="cart().length === 0">Your cart is empty.</p>
+  <ul>
+    <li *ngFor="let item of cart(); let i = index">
+      {{ item.name }} - ${{ item.price }}
+      <button mat-button color="warn" (click)="removeFromCart(i)">Remove</button>
+    </li>
+  </ul>
+  <button mat-raised-button color="accent" (click)="placeOrder()" [disabled]="cart().length === 0">
+    Place Order
+  </button>
+</mat-card>

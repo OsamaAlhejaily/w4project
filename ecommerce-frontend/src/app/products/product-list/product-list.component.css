@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  mat-card.cart {
+    padding: 16px;
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  

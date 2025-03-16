@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\ordermicroservice\\ordermicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DF29A72-3C7D-43D2-9296-F6A35C2558C8}|OrderMicroservice\\OrderMicroservice.csproj|solutionrelative:ordermicroservice\\ordermicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|c:\\users\\oussama\\source\\repos\\e-commercesystem\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80623C33-95E9-4F34-8D6A-79F4DB258780}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Program.cs",
+              "RelativeToolTip": "OrderMicroservice\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:05:42.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderMicroservice\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:49:17.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Models\\Order.cs",
+              "RelativeToolTip": "OrderMicroservice\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:49:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OrderMicroservice\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:49:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderMicroservice\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderMicroservice\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:48:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:50:18.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductService\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductService\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:47:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:48:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ProductService\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Services\\ProductServices.cs",
+              "RelativeToolTip": "ProductService\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:48:14.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:55:00.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\appsettings.json",
+              "RelativeToolTip": "ProductService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T23:59:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\appsettings.json",
+              "RelativeToolTip": "OrderMicroservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T00:06:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\OrderMicroservice.csproj",
+              "RelativeDocumentMoniker": "OrderMicroservice\\OrderMicroservice.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\OrderMicroservice\\OrderMicroservice.csproj",
+              "RelativeToolTip": "OrderMicroservice\\OrderMicroservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T11:40:00.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\E-CommerceSystem\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T11:40:13.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
